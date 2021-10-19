@@ -28,6 +28,7 @@ public class CalculatorTest {
         assertEquals(2 , myCalculator.subtract(4,2));
         assertEquals(-4 , myCalculator.subtract(0,4));
         assertEquals(99999 , myCalculator.subtract(100000,1));
+        assertEquals(12, myCalculator.subtract(14, 2));
 
     }
 
