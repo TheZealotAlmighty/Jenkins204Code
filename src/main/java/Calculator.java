@@ -7,8 +7,6 @@ import java.util.UUID;
 */
 class Calculator {
 
-    private int bool = true;
-
     Calculator(){
 
     }
