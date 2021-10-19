@@ -1,5 +1,8 @@
 import java.util.UUID;
 
+/**
+* @author Kinda sorta Zack Meyer, but also CS 204
+*/
 class Calculator {
 
     Calculator(){
