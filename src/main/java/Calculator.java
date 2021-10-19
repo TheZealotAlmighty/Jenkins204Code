@@ -2,6 +2,8 @@ import java.util.UUID;
 
 /**
 * @author Kinda sorta Zack Meyer, but also CS 204
+ *
+ * This is a class that does class things with math and stuff and this comment is literally just to push something
 */
 class Calculator {
 
